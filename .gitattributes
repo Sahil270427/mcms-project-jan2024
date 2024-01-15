@@ -1,0 +1,5 @@
+# Mark Julia files as detectable for language stats
+*.jl linguist-detectable=true
+
+# Ignore HTML files in language breakdown
+*.html linguist-detectable=false
