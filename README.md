@@ -3,7 +3,7 @@
 **Author:** Sahil R. Bandal  
 **Course:** MSc in Computer and Management Sciences  
 **University:** University of Sussex  
-**Submission Date:** January 2024
+**Submission Date:** January - 2024
 
 ## Overview
 
