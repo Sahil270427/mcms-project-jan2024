@@ -1,0 +1,19 @@
+# General
+*.DS_Store
+*.log
+*.tmp
+
+# Julia
+*.jl.cov
+*.jl.*
+Manifest.toml
+Project.toml
+
+# Pluto
+notebooks/*.jl~     
+__pluto_run.jl      
+*.html              
+
+# Jupyter-style cache
+.ipynb_checkpoints/
+__pycache__/
